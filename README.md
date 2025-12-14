@@ -2,7 +2,7 @@
 
 A curated list of C good stuff. This list contains only [open source](https://opensource.org/osd) code (as defined by the linked Open Source Definition), and sellers who aren't evil for physical resources.
 
-This is released under a Creative Commons-Attribution-ShareAlike license, version 4 (SPDX code ``CC-BY-SA-4.0``). You can find its text in the LICENSE file.
+This is released under a Creative Commons-Attribution-ShareAlike license, version 4 (SPDX code [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html)). You can find its text in the LICENSE file.
 
 **An important note:** This project does not index anything C++-related; only pure C stuff is considered.
 
