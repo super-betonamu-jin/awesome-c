@@ -526,7 +526,7 @@ Low-level networking and internet-related stuff. If you want something more comp
 - [libsagui](https://risoflora.github.io/libsagui/) - Library for cross-platform HTTP servers. [LGPL-3.0-or-later](https://spdx.org/licenses/LGPL-3.0-or-later.html)
 - [libuhttpd](https://github.com/zhaojh329/libuhttpd) - A very flexible, lightweight and fully asynchronous HTTP server library based on libev and http-parser for Embedded Linux. [MIT](https://spdx.org/licenses/MIT.html)
 - [LibVNCServer](https://github.com/LibVNC/libvncserver) - Cross-platform libraries to implement VNC server and/or client functionality. [GPL-2.0-or-later](https://spdx.org/licenses/GPL-2.0-or-later.html)
-- [libwebsock](https://github.com/JonnyWhatshisface/libwebsock) - Easy-to-use and powerful web socket library. [LGPL-3.0-only](https://spdx.org/licenses/LGPL-3.0-only.html)
+- [libwebsock2](https://github.com/JonnyWhatshisface/libwebsock2) - Easy-to-use and powerful web socket library. [LGPL-3.0-only](https://spdx.org/licenses/LGPL-3.0-only.html)
 - [libzmq](https://github.com/zeromq/libzmq) - Core ZeroMQ library, a high-performance asynchronous messaging library, aimed at use in distributed or concurrent applications. C API (backend C++) [GPL-3.0-or-later](https://spdx.org/licenses/GPL-3.0-or-later.html) with static linking exception
 - [lwan](https://lwan.ws) - Experimental, scalable, high-performance HTTP server. [GPL-2.0-only](https://spdx.org/licenses/GPL-2.0-only.html)
 - [mongoose](https://cesanta.com) - Embedded web server. [GPL-2.0-only](https://spdx.org/licenses/GPL-2.0-only.html)
