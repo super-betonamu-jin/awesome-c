@@ -143,10 +143,10 @@ Compilers, as well as compiler- and compilation-related tooling.
 - [Libaco](https://github.com/hnes/libaco) - A blazing fast and lightweight C asymmetric coroutine library. [Apache-2.0](https://spdx.org/licenses/Apache-2.0.html)
 - [libconcurrent](https://github.com/sharow/libconcurrent) - Concurrent programming library, using coroutines, for C11. [BSD-3-Clause](https://spdx.org/licenses/BSD-3-Clause.html)
 - [libcsp](https://github.com/shiyanhui/libcsp) - High performance concurrency C library influenced by the CSP model. [MIT](https://spdx.org/licenses/MIT.html)
-- [libdill](http://libdill.org/) - Library which makes structured concurrent programming easy. [MIT](https://spdx.org/licenses/MIT.html)
+- [libdill](https://github.com/sustrik/libdill) - Library which makes structured concurrent programming easy. [MIT](https://spdx.org/licenses/MIT.html)
 - [libhl](https://github.com/xant/libhl) - Library implementing a thread-safe API to manage a range of data structures. Also provides some supporting functions and structures for concurrent and lockfree programming. [LGPL-3.0-only](https://spdx.org/licenses/LGPL-3.0-only.html)
 - [liburcu](http://liburcu.org/) - Data synchronization library, which scales linearly with the number of cores. [LGPL-2.1-or-later](https://spdx.org/licenses/LGPL-2.1-or-later.html)
-- [mill](https://libmill.org/) - Go-style concurrency. [MIT](https://spdx.org/licenses/MIT.html)
+- [libmill](https://github.com/sustrik/libmill) - Go-style concurrency. [MIT](https://spdx.org/licenses/MIT.html)
 - [oclkit](https://github.com/matze/oclkit) - Two-file OpenCL wrapper. [GPL-3.0-or-later](https://spdx.org/licenses/GPL-3.0-or-later.html)
 - [OCL-MLA](http://tuxfan.github.io/ocl-mla/) - OpenCL Mid-Level Abstractions. [BSD-3-Clause](https://spdx.org/licenses/BSD-3-Clause.html)
 - [OpenMP](https://www.openmp.org/) - Set of pragmas designed to allow for easy parallelization of code. Standard (licensing not applicable).
