@@ -2,6 +2,8 @@
 
 A curated list of C good stuff.
 
+This is an independent fork of https://github.com/oz123/awesome-c.
+
 **An important note:** This project does not index pure C++ stuff. For C++, please have a look at:
 - https://github.com/fffaraz/awesome-cpp
 - https://github.com/p-ranav/awesome-hpp
