@@ -37,6 +37,8 @@ This is an independent fork of https://github.com/oz123/awesome-c.
 - [Beginner books](#beginner-books)
 - [Intermediate books](#intermediate-books)
 - [Advanced books](#advanced-books)
+- [Discussion boards](#discussion-boards)
+- [News sources](#news-sources)
 - [Lexing and Parsing](#lexing-and-parsing)
 - [Memory Management](#memory-management)
 - [Multimedia](#multimedia)
@@ -463,6 +465,14 @@ Resources for learning C programming in general, or something useful relating to
 
 - [Expert C Programming: Deep C Secrets](https://dl.acm.org/citation.cfm?id=179241) - Interesting, in-depth and entertaining look at the innards of C.
 - [Modern C, Third Edition: Covers the C23 standard](http://savannah.nongnu.org/projects/attr/) - In Modern C, Third Edition you'll learn to harness C's full potential using the latest tools and techniques.
+
+### Discussion boards
+
+- https://github.com/skeeto/w64devkit/discussions
+
+### News sources
+
+- https://lobste.rs/t/c
 
 ## Lexing and Parsing
 
