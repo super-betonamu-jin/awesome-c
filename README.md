@@ -4,7 +4,7 @@ A curated list of C good stuff.
 
 This is an independent fork of https://github.com/oz123/awesome-c.
 
-I changed the license to GPLv3 and removed the constraints imposed by the original project's contributing guidelines. This should make the list easier to maintain without necessarily reducing its quality. The original project has become somewhat stagnant because the overly strict guidelines make it very difficult and time‑consuming to preview and add new items. This is my attempt to address that problem.
+[I changed the license to GPLv3](https://github.com/super-betonamu-jin/awesome-c/commit/7339aadc51cff2ba0deed7266456da793391e657) and removed the constraints imposed by the original project's contributing guidelines. This should make the list easier to maintain without necessarily reducing its quality. The original project has become somewhat stagnant because the overly strict guidelines make it very difficult and time‑consuming to preview and add new items. This is my attempt to address that problem.
 
 **An important note:** This project does not index pure C++ stuff. For C++, please have a look at:
 - https://github.com/fffaraz/awesome-cpp
